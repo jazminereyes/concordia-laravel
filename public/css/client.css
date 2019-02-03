@@ -1,0 +1,19 @@
+.header
+{
+    background-image: url('../img/header.jpg');
+}
+
+.lbl
+{
+    margin-right: 10px;
+}
+
+.input
+{
+    width: 100px;
+}
+
+.sw
+{
+    margin-top: 5px;
+}
